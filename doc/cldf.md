@@ -40,3 +40,7 @@ illustrate the relational idea behind CLDF data.
 [cldfviz](https://github.com/cldf/cldfviz) makes it possible to illustrate CLDF
 data (and more specifically particular features within a dataset) on a map.
 
+### cldfzenodo
+[cldfzenodo](https://github.com/cldf/cldfzenodo) provides programmatic access to CLDF data deposited on Zenodo.
+
+
